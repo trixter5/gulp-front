@@ -1,7 +1,0 @@
-package.json
-tmp/*
-node_modules/*
-.publish/*
-dest/*
-tools/_templates/*
-
